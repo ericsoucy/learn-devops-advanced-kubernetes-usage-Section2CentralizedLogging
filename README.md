@@ -1,1 +1,3 @@
-"# learn-devops-advanced-kubernetes-usage-Section2CentralizedLogging" 
+# Learn DevOps: Advanced Kubernetes Usage
+
+## Section 2: Centralized Logging
